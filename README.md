@@ -22,7 +22,10 @@
 
 ## 🚀 Live Demo
 
-🟢 https://arjundroid12.github.io/react-todo/
+| Host | URL | Notes |
+|------|-----|-------|
+| 🥇 Surge.sh | https://arjun-react-todo.surge.sh | Bangalore edge — best for India |
+| 🥈 GitHub Pages | https://arjundroid12.github.io/react-todo/ | May be blocked by some Indian ISPs |
 
 ## 📦 Run Locally
 
