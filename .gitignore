@@ -1,0 +1,8 @@
+# Add this to your .gitignore
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+.vscode/
+.idea/
